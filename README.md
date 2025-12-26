@@ -3,9 +3,9 @@ Generate AI-powered trip itineraries based on country, travel style, interests, 
 
 **⚙️ Tech Stack:**
 
- **. Syncfusion
- . React Router v7 (framework mode)
- . Appwrite
- . Tailwind CSS
- . Vite
- . React 19**
+ **. Syncfusion,
+  React Router v7 (framework mode),
+  Appwrite,
+  Tailwind CSS,
+  Vite,
+  React 19**
