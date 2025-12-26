@@ -1,0 +1,4 @@
+ignoredBuiltDependencies:
+  - '@sentry-internal/node-cpu-profiler'
+  - '@sentry/cli'
+  - esbuild
